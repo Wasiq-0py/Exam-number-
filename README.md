@@ -1,2 +1,2 @@
 # Exam-number-
-##### It checks that wich student with thier numbers got wich grade.
+##### It checks that wich students with thier numbers got wich grades.
